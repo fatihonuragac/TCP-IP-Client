@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670849788 source:c:\users\user\desktop\projeler\projeornek\tcp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<conio.h>
+	<string.h>
+
